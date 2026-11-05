@@ -1,0 +1,133 @@
+{
+  "checkedAt": "2026-11-05T19:39:48.806Z",
+  "results": [
+    {
+      "width": 320,
+      "columns": "265px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowColumns": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 20,
+          "y": 3367.859375,
+          "width": 265,
+          "height": 120
+        },
+        {
+          "x": 20,
+          "y": 3487.859375,
+          "width": 265,
+          "height": 165
+        },
+        {
+          "x": 20,
+          "y": 3652.859375,
+          "width": 265,
+          "height": 76
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "columns": "335px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowColumns": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 20,
+          "y": 3395.96875,
+          "width": 335,
+          "height": 128
+        },
+        {
+          "x": 20,
+          "y": 3523.96875,
+          "width": 335,
+          "height": 165
+        },
+        {
+          "x": 20,
+          "y": 3688.96875,
+          "width": 335,
+          "height": 76
+        }
+      ]
+    },
+    {
+      "width": 781,
+      "columns": "223.906px 223.906px 250.781px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowColumns": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 33.703125,
+          "y": -32.46875,
+          "width": 223.90625,
+          "height": 159.953125
+        },
+        {
+          "x": 257.609375,
+          "y": -32.46875,
+          "width": 223.90625,
+          "height": 159.953125
+        },
+        {
+          "x": 481.515625,
+          "y": -32.46875,
+          "width": 250.78125,
+          "height": 159.953125
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "columns": "416.531px 416.547px 466.547px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowColumns": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 62.6875,
+          "y": 213.59375,
+          "width": 416.53125,
+          "height": 144
+        },
+        {
+          "x": 479.21875,
+          "y": 213.59375,
+          "width": 416.546875,
+          "height": 144
+        },
+        {
+          "x": 895.765625,
+          "y": 213.59375,
+          "width": 466.546875,
+          "height": 144
+        }
+      ]
+    }
+  ]
+}
