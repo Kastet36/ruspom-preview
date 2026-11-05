@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-11-05T20:50:03.152Z",
+  "results": [
+    {
+      "variant": "overview",
+      "width": 1920,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 390,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    }
+  ]
+}
