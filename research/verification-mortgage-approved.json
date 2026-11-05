@@ -1,0 +1,77 @@
+{
+  "checkedAt": "2026-11-05T21:16:52.884Z",
+  "results": [
+    {
+      "width": 320,
+      "columns": "265px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    },
+    {
+      "width": 390,
+      "columns": "335px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    },
+    {
+      "width": 781,
+      "columns": "175.297px 175.297px 300px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1000,
+      "columns": "275.172px 275.172px 300px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1440,
+      "columns": "409.812px 409.812px 400px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1920,
+      "columns": "550px 550px 400px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "buttonLeftAligned": true,
+      "label": "Получить условия →",
+      "href": "tel:+78124256667",
+      "noteBelowButton": true,
+      "headingMatches": true
+    }
+  ]
+}
