@@ -1,0 +1,109 @@
+{
+  "checkedAt": "2026-11-05T20:31:24.167Z",
+  "results": [
+    {
+      "width": 320,
+      "columns": "265px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowRate": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 20,
+          "y": 3367.859375,
+          "width": 265,
+          "height": 254
+        },
+        {
+          "x": 20,
+          "y": 3621.859375,
+          "width": 265,
+          "height": 218
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "columns": "335px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowRate": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 20,
+          "y": 3395.96875,
+          "width": 335,
+          "height": 245
+        },
+        {
+          "x": 20,
+          "y": 3640.96875,
+          "width": 335,
+          "height": 218
+        }
+      ]
+    },
+    {
+      "width": 781,
+      "columns": "349.297px 349.297px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowRate": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 33.703125,
+          "y": -32.46875,
+          "width": 349.296875,
+          "height": 239.375
+        },
+        {
+          "x": 383,
+          "y": -32.46875,
+          "width": 349.296875,
+          "height": 239.375
+        }
+      ]
+    },
+    {
+      "width": 1440,
+      "columns": "649.812px 649.812px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "childrenOverflow": [],
+      "headingMatches": true,
+      "cta": "tel:+78124256667",
+      "buttonAligned": true,
+      "buttonBelowRate": true,
+      "noteBelowButton": true,
+      "boxes": [
+        {
+          "x": 62.6875,
+          "y": 213.59375,
+          "width": 649.8125,
+          "height": 236.109375
+        },
+        {
+          "x": 712.5,
+          "y": 213.59375,
+          "width": 649.8125,
+          "height": 236.109375
+        }
+      ]
+    }
+  ]
+}
