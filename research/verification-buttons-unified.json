@@ -1,0 +1,515 @@
+{
+  "checkedAt": "2026-11-05T21:31:10.830Z",
+  "results": [
+    {
+      "width": 320,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "265px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "265px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "265px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "265px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    },
+    {
+      "width": 390,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "335px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "335px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "335px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "335px",
+            "height": "60px",
+            "paddingLeft": "18px",
+            "paddingRight": "18px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    },
+    {
+      "width": 781,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    },
+    {
+      "width": 1000,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "300px",
+            "height": "60px",
+            "paddingLeft": "20px",
+            "paddingRight": "20px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "13px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    },
+    {
+      "width": 1440,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    },
+    {
+      "width": 1920,
+      "pageOverflow": false,
+      "headerClipped": false,
+      "buttons": [
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить условия →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        },
+        {
+          "text": "Получить каталог проектов →",
+          "styles": {
+            "width": "400px",
+            "height": "60px",
+            "paddingLeft": "24px",
+            "paddingRight": "24px",
+            "fontFamily": "Manrope, Arial, sans-serif",
+            "fontSize": "14px",
+            "fontWeight": "800",
+            "lineHeight": "20px",
+            "borderRadius": "8px",
+            "backgroundColor": "rgb(231, 183, 102)",
+            "color": "rgb(24, 28, 21)",
+            "boxShadow": "none",
+            "justifyContent": "space-between"
+          },
+          "overflow": false
+        }
+      ],
+      "identical": true,
+      "arrowsConsistent": true
+    }
+  ]
+}
