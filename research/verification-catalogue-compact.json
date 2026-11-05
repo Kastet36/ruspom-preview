@@ -1,0 +1,83 @@
+{
+  "checkedAt": "2026-11-05T21:23:28.257Z",
+  "results": [
+    {
+      "width": 320,
+      "height": 328.71875,
+      "columns": "265px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    },
+    {
+      "width": 390,
+      "height": 306.125,
+      "columns": "335px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    },
+    {
+      "width": 781,
+      "height": 271.53125,
+      "columns": "366.594px 300px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1000,
+      "height": 245.28125,
+      "columns": "566.344px 300px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1440,
+      "height": 224.140625,
+      "columns": "835.625px 400px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    },
+    {
+      "width": 1920,
+      "height": 292.78125,
+      "columns": "1116px 400px",
+      "overflow": false,
+      "sectionOverflow": false,
+      "buttonRightAligned": true,
+      "mobileButtonLeftAligned": true,
+      "imageCount": 0,
+      "label": "Получить каталог проектов →",
+      "handlerPreserved": true,
+      "headingMatches": true
+    }
+  ]
+}
