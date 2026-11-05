@@ -1,0 +1,221 @@
+{
+  "checkedAt": "2026-11-05T21:09:46.829Z",
+  "results": [
+    {
+      "variant": "overview",
+      "width": 1920,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 1440,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 1000,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 781,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 390,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "overview",
+      "width": 320,
+      "overflow": false,
+      "frames": 3,
+      "buttons": 0,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 1440,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 1000,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 781,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "01",
+      "width": 320,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 1440,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 1000,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 781,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "02",
+      "width": 320,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 1920,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 1440,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 1000,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 781,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 390,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    },
+    {
+      "variant": "03",
+      "width": 320,
+      "overflow": false,
+      "frames": 0,
+      "buttons": 1,
+      "buttonAligned": true,
+      "brokenImages": []
+    }
+  ]
+}
