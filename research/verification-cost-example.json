@@ -1,0 +1,142 @@
+{
+  "checkedAt": "2026-11-06T06:43:27.391Z",
+  "initiallyClosed": true,
+  "mouseOpens": true,
+  "enterCloses": true,
+  "spaceOpens": true,
+  "independent": true,
+  "results": [
+    {
+      "closed": {
+        "width": 320,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 320,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    },
+    {
+      "closed": {
+        "width": 390,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 390,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    },
+    {
+      "closed": {
+        "width": 781,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 781,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    },
+    {
+      "closed": {
+        "width": 1000,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 1000,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    },
+    {
+      "closed": {
+        "width": 1440,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 1440,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    },
+    {
+      "closed": {
+        "width": 1920,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      },
+      "opened": {
+        "width": 1920,
+        "pageOverflow": false,
+        "sectionOverflow": false,
+        "total": "5 900 000 ₽",
+        "headingMatches": true,
+        "detailCount": 3,
+        "exclusionsVisible": true,
+        "draftVisible": true
+      }
+    }
+  ]
+}
