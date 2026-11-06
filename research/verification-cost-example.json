@@ -21,8 +21,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 320,
@@ -38,8 +37,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     },
     {
@@ -57,8 +55,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 390,
@@ -74,8 +71,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     },
     {
@@ -93,8 +89,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 781,
@@ -110,8 +105,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     },
     {
@@ -129,8 +123,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 1000,
@@ -146,8 +139,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     },
     {
@@ -165,8 +157,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 1440,
@@ -182,8 +173,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     },
     {
@@ -201,8 +191,7 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       },
       "opened": {
         "width": 1920,
@@ -218,9 +207,14 @@
         "exampleHeading": true,
         "projectImageLoaded": true,
         "realProject": true,
-        "sumCorrect": true,
-        "dateVisible": true
+        "sumCorrect": true
       }
     }
-  ]
+  ],
+  "publicCopyReview": {
+    "archiveMetadataRemoved": true,
+    "sourceLinkRemoved": true,
+    "estimateLabelPreserved": true,
+    "finalQuoteNotePreserved": true
+  }
 }
