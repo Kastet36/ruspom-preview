@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06T06:43:27.391Z",
+  "checkedAt": "2026-11-06T06:49:35.071Z",
   "initiallyClosed": true,
   "mouseOpens": true,
   "enterCloses": true,
@@ -15,7 +15,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 320,
@@ -25,7 +28,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     },
     {
@@ -37,7 +43,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 390,
@@ -47,7 +56,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     },
     {
@@ -59,7 +71,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 781,
@@ -69,7 +84,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     },
     {
@@ -81,7 +99,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 1000,
@@ -91,7 +112,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     },
     {
@@ -103,7 +127,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 1440,
@@ -113,7 +140,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     },
     {
@@ -125,7 +155,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       },
       "opened": {
         "width": 1920,
@@ -135,7 +168,10 @@
         "headingMatches": true,
         "detailCount": 3,
         "exclusionsVisible": true,
-        "draftVisible": true
+        "introVisible": true,
+        "expandedAligned": true,
+        "noInternalCopy": true,
+        "exampleHeading": true
       }
     }
   ]
